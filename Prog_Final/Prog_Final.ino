@@ -1,16 +1,16 @@
-// Microcontrolador - Arduino Leoardo
+// Microcontrolador - Arduino Leonardo
 /*
-Intruções:
+Instruções:
 Esse programa realiza o controle e processamento de dados do sistema da Torneira Automática.
 O sistema é composto por diversas integrações para garantir a eficiência.
-Segue algumas intruções básicas de utilização:
-1) Para acionar o equpamento ele deve estar conectado á tomada e sua chave seletora acionada.
-2) O microcontrolador está sendo energizado por uma fonte 24v é essencial os pinos GND e VCC não senjam invertidos pois isso queimará o equipamento.
-Caso seja necessario a manutenção as etiquetas e MANUAL do equipamento devem ser seguidos!!
-3) Para a copilação do código o aparelho DEVE estar Desconectado da tomada, caso contrario haverá sobrecarga de tensão que resultará em danos na memória Flash do processador.
+Segue algumas instruções básicas de utilização:
+1) Para acionar o equipamento ele deve estar conectado á tomada e sua chave seletora acionada.
+2) O microcontrolador está sendo energizado por uma fonte 24v é essencial os pinos GND e VCC não sejam invertidos pois isso queimará o equipamento.
+Caso seja necessário a manutenção as etiquetas e MANUAL do equipamento devem ser seguidos!!
+3) Para a compilação do código o aparelho DEVE estar Desconectado da tomada, caso contrário haverá sobrecarga de tensão que resultará em danos na memória Flash do processador.
 Caso isso ocorra por falta de atenção, acesse ArduinoIDE > Arquivo > Exemplos > ArduinoISP. O exemplo irá abrir e então selecione a placa e portar do Arduino Leonardo 
 e compile o código.
-4) Certifique-se de que todos os cabos estão bem conectados nos devidoslugares.
+4) Certifique-se de que todos os cabos estão bem conectados nos devidos lugares.
 
  * --------------------- 
  * |   INFRAVERMELHO   |  
